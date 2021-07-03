@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  metadata about the whole HTML document as a whole
+  </head>
+  
+  <body>
+  <!--actual content of page here-->
+  <img src="URL_TO_IMAGE" alt="Picture of a Dog">
+  
+  <h5> Some of my favorite things </h5>
+  <ul>
+    <li> Making </li>
+    <li> Woodworking </li>
+    <li> Computers </li>
+    <li> Katelyn </li>
+    <li> Music </li>
+  </ul>
+  
+  </body>
+
+</html>
